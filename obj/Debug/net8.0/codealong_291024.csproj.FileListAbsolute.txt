@@ -1,0 +1,14 @@
+/Users/Sigrid/Documents/C#/codealong_291024/bin/Debug/net8.0/codealong_291024
+/Users/Sigrid/Documents/C#/codealong_291024/bin/Debug/net8.0/codealong_291024.deps.json
+/Users/Sigrid/Documents/C#/codealong_291024/bin/Debug/net8.0/codealong_291024.runtimeconfig.json
+/Users/Sigrid/Documents/C#/codealong_291024/bin/Debug/net8.0/codealong_291024.dll
+/Users/Sigrid/Documents/C#/codealong_291024/bin/Debug/net8.0/codealong_291024.pdb
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/codealong_291024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/codealong_291024.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/codealong_291024.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/codealong_291024.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/codealong_291024.dll
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/refint/codealong_291024.dll
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/codealong_291024.pdb
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/codealong_291024.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/codealong_291024/obj/Debug/net8.0/ref/codealong_291024.dll
