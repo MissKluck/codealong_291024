@@ -26,7 +26,7 @@ public class Controller
     }
     public void UpdateAge()
     {
-        // we parse the user input from ReadLine() as an integer, bu taaking a string input argument, and "getting"  new integer output newAge
+        // we parse the user input from ReadLine() as an integer, but taking a string input argument, and "getting" new integer output newAge
         Console.WriteLine("Write a new age:");
         if (int.TryParse(Console.ReadLine(), out int newAge))
         {
