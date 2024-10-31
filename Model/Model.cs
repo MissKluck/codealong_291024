@@ -1,3 +1,4 @@
+// the place where you define your data
 public class Model
 {
     // two fields with getters and setters

@@ -4,15 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        // we initialize new instances of our MVC classes
+        // we create new objects of the Model, View and Controller classes
         Model model = new Model("Lars", 42);
         View view = new View();
         Controller controller = new Controller(model, view);
 
-        // we use the controller, to test our program
+        // we use the controller to test our program aka to display initial model data
         controller.DisplayModel();
 
-        // we can check whether or not our controller methods work
+        // test controller's UpdateName and UpdateAge methods work
         controller.UpdateName();
 
         controller.UpdateAge();
@@ -20,9 +20,9 @@ class Program
         // call the display method again to check if our model was updated
         controller.DisplayModel();
 
-        // use the ReadLine to stall the program and keep it running
+        // use Console.ReadLine() to pause the program, allowing us to view output before closing
         Console.ReadLine();
-        // checking how ReadLine and & Convert actually works
+        // check how Console.ReadLine() input is converted to int nd its type using Convert
         //string? testReadLine = Console.ReadLine();
         //int test = Convert.ToInt32(testReadLine);
         //Console.WriteLine(test.GetType());
